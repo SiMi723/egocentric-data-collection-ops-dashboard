@@ -2,8 +2,6 @@
 
 An interactive Streamlit dashboard that demonstrates how a data-collection operation could monitor collection targets, upload timeliness, recording quality, consent verification, equipment readiness, and records needing follow-up.
 
-> **Data disclaimer:** This is an independent portfolio project built with synthetic, fictional data. It is not Aktoria Robotics data, is not affiliated with Aktoria Robotics, and does not represent any real company's policies or operational performance.
-
 ## Features
 
 - Filters by collection date, site, collection partner, and camera
